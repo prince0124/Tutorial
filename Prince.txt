@@ -6,8 +6,6 @@ Checking Stash Double
 Test Diff
 
 
-ignoreWhiteSpace
-
 
 
 
