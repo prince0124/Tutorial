@@ -1,0 +1,11 @@
+diff --git a/Prince.txt b/Prince.txt
+index 1ebd21f..3ed4bf7 100644
+--- a/Prince.txt
++++ b/Prince.txt
+@@ -5,5 +5,6 @@ Checking stash
+ Checking Stash Double
+ Test Diff
+ 
++
+ ignoreWhiteSpace
+ 
